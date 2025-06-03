@@ -1,2 +1,3 @@
 Name: Nguyen Tan Vi
 Interest: Gaming and Writing
+Skill: SQL, Back-end, fornt-end
