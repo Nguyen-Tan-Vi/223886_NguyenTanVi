@@ -1,2 +1,1 @@
-# 223886_NguyenTanVi
-DH22KPM01
+This repository is used for learning GitHub on web.
