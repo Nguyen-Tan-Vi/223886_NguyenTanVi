@@ -1,8 +1,7 @@
 Name: Nguyen Tan Vi
 Interest: Gaming and Writing
 Skill: SQL, Back-end, fornt-end
-<<<<<<< Updated upstream
-=======
+
 Đã chỉnh sửa feature-info thành công
 Đã chỉnh sửa feature-info không thành công
->>>>>>> Stashed changes
+
